@@ -1,6 +1,6 @@
-#!/bin/bash
-pip install -r requirements.txt
+pip install pyTelegramBotAPI requests flask
 python main.py
+
 
 
 
